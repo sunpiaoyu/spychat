@@ -26,6 +26,25 @@ This app showcases:
 
 SpyChat is still in under development, and some features are not yet implemented. I will continue to maintain this project
 
+## Screenshots
+* Splash Screen
+<img src="Screenshot_SplashScreen.png" width="300" height = "670"/>
+
+* Main Screen
+<img src="Screenshot_Main.png" width="300" height = "670"/>
+
+* Test
+<img src="Screenshot_Test.png" width="300" height = "670"/>
+
+* Speech
+<img src="Screenshot_Speak.png" width="300" height = "670"/>
+
+* Options
+<img src="Screenshot_Options.png" width="300" height = "670"/>
+
+* Buttons
+<img src="Screenshot_More.png" width="300" height = "670"/>
+
 ## Known issues
 * You have to apply for appid、apiSecret、apiKey at the [xun fei open platform][xfyun], and put them into **local.properties**
 * example:
@@ -34,17 +53,8 @@ SpyChat is still in under development, and some features are not yet implemented
     apiKey="abcdefghijkopqrstuvwxyz"
 * You need allow RECORD_AUDIO permission in settings, since the runtime permission feature have not done.
 
-## Known issues
+## Base sample
 * This Project is base on Google official chat demo [JetChat](https://github.com/android/compose-samples/tree/main/Jetchat)
-
-## Screenshots
-
-<img src="Screenshot_SplashScreen.png"/>
-<img src="Screenshot_Main.png"/>
-<img src="Screenshot_Test.png"/>
-<img src="Screenshot_Speak.png"/>
-<img src="Screenshot_Options.png"/>
-<img src="Screenshot_More.png"/>
 
 ## License
 ```
