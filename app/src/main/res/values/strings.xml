@@ -1,0 +1,45 @@
+<!--
+  ~ Copyright 2020 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">SpyChat</string>
+<!--    <string name="app_id">3b153d6f</string>-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="jumpBottom">回到底部</string>
+    <string name="user">我</string>
+    <string name="author">小宇</string>
+    <string name="speak_mode">按住 说话</string>
+    <string name="speak_send">松开 发送</string>
+    <string name="speak_cancel">上滑取消</string>
+    <string name="input_mode">输入文字</string>
+    <string name="action_clear">清屏</string>
+    <string name="action_good">好评</string>
+    <string name="action_bad">差评</string>
+    <string name="action_money">打赏</string>
+
+    <string name="profile_error">There was an error loading the profile</string>
+    <string name="display_name">Display name</string>
+    <string name="email">e-mail</string>
+
+    <!-- Accessibility descriptions -->
+    <string name="textfield_desc">Text input</string>
+    <string name="not_available">Functionality currently not available</string>
+    <string name="not_available_subtitle">Grab a beverage and check back later!</string>
+    <string name="attached_image">Attached image</string>
+</resources>
