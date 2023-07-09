@@ -26,6 +26,13 @@ This app showcases:
 
 SpyChat is still in under development, and some features are not yet implemented. I will continue to maintain this project
 
+
+## Demo Video
+[演示视频](https://www.bilibili.com/video/BV14h4y1E78X/?share_source=copy_web&vd_source=aae3cd4dca4ccc561c86f5fc82e9cce2)
+
+![image](https://github.com/sunpiaoyu/spychat/assets/49492050/46f49a47-83ac-4e38-a7de-8902ea10241f)
+
+
 ## Screenshots
 * Splash Screen
 <img src="Screenshot_SplashScreen.png" width="300" height = "670"/>
